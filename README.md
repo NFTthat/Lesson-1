@@ -11,7 +11,7 @@ In this Project i used everything i learned in one way or the other:
 Meta Data
 Links
 Elements
-Samentic Rules
+Semantic Rules
 Tables 
 Forms
 
