@@ -8,10 +8,12 @@ HTML is really an amazing langauge even thought i know many pros don't consider 
 What really got my excited was know the fact that this is how every sites is being started and becoming what millions interact with.
 
 In this Project i used everything i learned in one way or the other:
-Meta Data
-Links
-Elements
-Semantic Rules
-Tables 
-Forms
+Meta Data,
+Links,
+Elements,
+Semantic Rules,
+Tables, and 
+Forms to mention the majors.
+
+This project will help you pratice everything you'd learning if you take the class and even taking the next steps in commiting it. Good luck :)
 
