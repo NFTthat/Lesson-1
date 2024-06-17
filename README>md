@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+# Lesson-1
+Learning HTML (Ending Project)
+
+My thoughts on the entire class period:
+I really think Dave Gray is such an amazing tutor, learn from his 4hours HTML course on YT, it was really understanding and easy to grap. I highly recomend it if if you are just starting. <a href="https://youtu.be/mJgBOIoGihA?si=0CMx6cqpDR8ESUtC">The course is 1year old</a>
+
+HTML is really an amazing langauge even thought i know many pros don't consider it to be a programming language, but cmon lets enjoying our starting point. 
+What really got my excited was know the fact that this is how every sites is being started and becoming what millions interact with.
+
+In this Project i used everything i learned in one way or the other:
+Meta Data,
+Links,
+Elements,
+Semantic Rules,
+Tables, and 
+Forms to mention the majors.
+
+This project will help you pratice everything you'd learning if you take the class and even taking the next steps in commiting it. Good luck :)
+
+## FOLLOW INSTRUCTIONS by (DaveGray) BELOW TO COMPLETE YOUR ENDING PROJECT WHEN DONE LEARNING 👇
+=======
+"HTML Project for Beginners"
+
+✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+
+This repository shares the starter code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
+
+**Your Challenge:** Utilize the knowledge you have gained from the [HTML for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) tutorial series to build a website for The Little Taco Shop. 
+
+**Directions:**
+
+- There are images of the 3 web pages you need to build in the examples folder. Use them as references for what you build.
+
+- You should name your files: index.html, hours.html, and contact.html
+
+- There is minimal CSS already available in css/styles.css. You need to link that file to your HTML files. 
+
+- All images are provided in the img folder.
+
+- If you need to find taco emojis, try [Emojipedia](https://emojipedia.org/taco/). 
+
+- A favicon is already included. You'll need to add it in the head section of each page.
+
+### Academic Honesty
+
+**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+>>>>>>> bc40c43 (Initial Commit)
