@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* body {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    min-height: 200vh; */
+/* }
+
+.columns {
+    columns: 4 250px;
+    column-rule: 3px solid #333;
+    column-gap: 3rem;
+} */
+
+/* .box1 {
+    border: 1px dashed black;
+    width: 30rem;
+    height: 40rem;
+}
+
+.box2 {
+    position: relative;
+    border: 1px solid black;
+    width: 20rem;
+    height: 30rem;
+    top: 80px;
+    left: 80px;
+}
+
+.box3 {
+    position: relative;
+    border: 1px dashed black;
+    width: 12rem;
+    height: 22rem;
+    top: 70px;
+    left: 65px;
+}
+
+.contener {
+    position: absolute;
+    width: 7rem;
+    height: 7rem;
+    background-color: blue;
+} */
+
+
+/* .outer-container {
+    width: 75vw;
+    height: 85vh;
+    border: 3px dashed black;
+    margin: 40px auto;
+    position: relative;
+}
+.inner-container {
+    width: 40vh;
+    height: 50vh;
+    border: 2px solid blue;
+    margin: 200px auto;
+
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    color: #fff;
+    padding: 1rem;
+} */
+
+/* .absolute {
+    background-color: blue;
+    position: absolute;
+    top: 0;
+    left: 0; */
+    /* how to make things disapear */
+    /* left: -10000px; */
+    /* z-index: 1;
+} */
+
+/* .relative {
+    background-color: red;
+    position: relative;
+    top: 300px;
+    left: 200px;
+}
+
+.fixed {
+    background-color: green;
+    position: fixed;
+    top: 100px;
+}
+
+.sticky {
+    background-color: black;
+    position: sticky;
+} */
+
+/* html { scroll-behavior: smooth; } */
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {height: 100vh;}
+
+.blue {background-color: blue;}
+.red {background-color: red;}
+.green {background-color: green;}
+
+header {
+    text-align: center;
+    line-height: 100px;
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+
+.social {
+    width: 60px;
+    height: 60px;
+    color: #fff;
+    background-color: royalblue;
+    font-size: inherit;
+    padding: 1rem;
+    position: fixed;
+    top: 30%;
+    left: 0;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+footer {
+    background-color: black;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 50px;
+    position: sticky;
+    bottom: 0;
+}
+
+a:visited {
+    color: white;
+}

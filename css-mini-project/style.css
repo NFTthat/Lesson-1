@@ -45,9 +45,114 @@ header {
     top: 0;
 }
 
+nav {
+    padding: 0.5rem;
+    color: #000;
+    background-color: #fff;
+    border: 2px solid black;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav a:link,
+nav a:visited {
+    color: #000;
+}
+
+nav a,
+nav a:hover {
+    color: hsla(0, 0%, 20%, 0.6);
+}
+
+nav a:active {
+    color: red;
+}
+
 main {
     flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1rem;
 }
+
+footer {
+    bottom: 0;
+}
+
+/* || PROFILE CARD */
+.card {
+    scroll-margin-top: 8rem;
+    width: min(100%, 350px);
+    border: 2px solid #000;
+    background-color: #cdcdcd;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.card figure {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.card img {
+    border: 3px double #000;
+    border-radius: 50%;
+}
+
+.card figcaption {
+    font-weight: bolder;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+}
+
+.card:nth-child(2) {
+    background-color: papayawhip;
+}
+
+.card figcaption::before {
+    content: "✨";
+    display: block;
+    /* font-size: 2rem; */
+}
+
+/* .card p::before {
+    content: open-quote;
+}
+.card p::after {
+    content: close-quote;
+} */
+
+.card p {
+    position: relative;
+}
+
+.card p::before {
+    content: open-quote;
+    font-size: 2rem;
+    position: absolute;
+    top: -0.25rem;
+    left: -0.5rem;
+}
+.card p::after {
+    content: close-quote;
+    font-size: 2rem;
+    position: absolute;
+    top: -0.25rem;
+    right: -0.5rem;
+}
+
+/* .card img[alt] {
+    border: 3px solid red;
+} */
 
 
 
