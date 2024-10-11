@@ -98,7 +98,21 @@ nav a {
 }
 
  /* || FEAUTURE */
+ .square--highlight {
+    --SQUARE-BG-COLOR: cornflowerblue;
+}
 
+.square {
+    width: var(--SQUARE);
+    height: var(--SQUARE);
+    background-color: var(--SQUARE-BG-COLOR);
+    font-size: var(--FS-XL);
+    display: grid;
+    place-content: center;
+    border-radius: 10px;
+    border: var(--BORDER);
+    box-shadow: var(--SHADOW);
+}
 
 
 
